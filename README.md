@@ -45,4 +45,4 @@
 
 ## 关于这个账号里的其他仓库
 
-下面几十个 `openclaw-*`、`miaoquai-*` 仓库，是 2026 年上半年做 AI agent 工具链探索时留下的实验，和企业 AI 落地这条主线无关，留着当记录。真正持续维护的只有 sz-skills 和书稿。
+几十个标了 Archived 的 `openclaw-*`、`miaoquai-*` 和 fork 仓库，是 2026 年上半年做 AI agent 工具链探索时留下的实验，和企业 AI 落地这条主线无关，已归档留作记录。真正持续维护的只有 sz-skills 和书稿。
