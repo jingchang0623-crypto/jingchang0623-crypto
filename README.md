@@ -1,6 +1,6 @@
-<img src="portrait.webp" width="168" align="right" alt="陈京昌（诗中）">
+<img src="portrait.webp" width="168" align="left" alt="陈京昌（诗中）">
 
-# 陈京昌 · 诗中
+**陈京昌 · 诗中**
 
 **把 AI 讲明白，带团队做出来。**
 
